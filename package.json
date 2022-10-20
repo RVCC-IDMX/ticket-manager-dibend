@@ -1,0 +1,20 @@
+{
+  "name": "ticket-manager-dibend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/ticket-manager-dibend.git"
+  },
+  "keywords": [],
+  "author": "David DiBenedetto <david@njweb.solutions> (https://njweb.solutions/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/ticket-manager-dibend/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-dibend#readme"
+}
