@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/ticket-manager-dibend/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-dibend#readme"
+  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-dibend#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.3.1",
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
